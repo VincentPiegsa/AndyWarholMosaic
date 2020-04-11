@@ -1,7 +1,7 @@
 # AndyWarholMosaic
 App that creates an Andy-Warhol-like mosaic out of an input image
 
-# Necessary Modules
+## Necessary Modules
 Before you start the app, your first need to install a few modules:
 
 1. numpy
@@ -9,11 +9,11 @@ Before you start the app, your first need to install a few modules:
 
 You can also download the compiled version, which doesn't need any extra modules.
 
-### Instructions
-# Python App
+## Instructions
+### Python App
 1. Go to the directory and open the terminal
 2. Type in: >> Image_Editor.py <input_image.jpg> --out=<output_image.jpg>
 
-# Compiled App
+### Compiled App
 1. Go to the directory and open the terminal
 2. Type in: >> Image_Editor.exe <input_image.jpg> --out=<output_image.jpg>
