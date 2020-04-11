@@ -1,4 +1,4 @@
-# AndyWarholMosaic
+# Andy Warhol Mosaic
 App that creates an Andy-Warhol-like mosaic out of an input image
 
 ## Necessary Modules
