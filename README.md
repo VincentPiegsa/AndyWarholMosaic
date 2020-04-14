@@ -2,7 +2,7 @@
 App that creates an Andy-Warhol-like mosaic out of an input image
 
 ## Installation
-Download the .py file. Before you start the app, you first need to install the Python (www.python.org) interpreter as well as some additional modules:
+Download the <Image_Editor.py> file. Before you start the app, you first need to install the Python (www.python.org) interpreter as well as some additional modules:
 1. numpy (python -m pip install numpy)
 2. OpenCV (python -m pip install opencv-python)
 
