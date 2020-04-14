@@ -1,8 +1,7 @@
 """
 Creates a mosaic picture (Warhol Style)
 
-Attributes:
-    colors (list): a list of the selected colors
+Necessary modules: numpy, OpenCV
 
 """
 import cv2
